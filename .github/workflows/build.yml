@@ -28,4 +28,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: plugin-phar
-          path: path/to/your/phar/directory  # Adjust the path to your Phar
+          path: phar/directory  # Adjust the path to your Phar
