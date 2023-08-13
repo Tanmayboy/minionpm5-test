@@ -3,7 +3,7 @@ name: Build Phar Archive
 on:
   push:
     branches:
-      - main  # Adjust the branch name as needed
+      - stable  # Adjust the branch name as needed
 
 jobs:
   build:
