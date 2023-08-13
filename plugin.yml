@@ -3,12 +3,12 @@ name: ExamplePlugin
 main: ExamplePlugin\MainClass
 src-namespace-prefix: ExamplePlugin
 version: 1.4.1+dev
-api: 5.0.0
+api: 5.4.0
 
 load: POSTWORLD
-author: PocketMine Team
+author: Tanmay
 description: Example plugin showing the new API
-website: https://github.com/pmmp/ExamplePlugin
+website: https://github.com/Tanmayboy/minionpm5-test/
 commands:
   example:
     description: Example command
