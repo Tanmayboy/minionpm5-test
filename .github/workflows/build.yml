@@ -25,7 +25,7 @@ jobs:
         run: php build.php  # Replace with the actual build script
 
       - name: Upload Phar Archive
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: plugin-phar
           path: phar/directory  # Adjust the path to your Phar
